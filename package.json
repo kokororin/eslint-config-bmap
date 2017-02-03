@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-bmap",
+  "version": "0.1.1",
+  "description": "eslint config which helps to ignore Baidu Map SDK 's global variable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokororin/eslint-config-bmap.git"
+  },
+  "keywords": [
+    "eslint",
+    "bmap"
+  ],
+  "author": "kokororin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kokororin/eslint-config-bmap/issues"
+  },
+  "homepage": "https://github.com/kokororin/eslint-config-bmap#readme",
+  "peerDependencies": {
+    "eslint": ">=3.8.1"
+  }
+}
